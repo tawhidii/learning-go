@@ -19,6 +19,7 @@ type Bkash struct {
 }
 
 type Nagad struct {
+	// nagad config 
 	NagadAPIKey string
 	APISecrects string
 }
